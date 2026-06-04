@@ -1,0 +1,14 @@
+{
+  "name": "gitshare",
+  "version": "0.0.1",
+  "description": "Get the remote url from the current file to share it with your friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "yisusjuarez",
+  "license": "MIT"
+}
